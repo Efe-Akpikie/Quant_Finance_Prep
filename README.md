@@ -74,6 +74,7 @@ Develop a deep understanding of financial time series behavior, volatility dynam
 **Primary Texts**
 - *Analysis of Financial Time Series by Ruey S. Tsay*  
 - *The Elements of Quantitative Investing by Giuseppe A. Paleologo*
+- *Portfolio Optimization: Theory and Application by Daniel P. Palomar*
 
 **Key Topics**
 - Stationarity, ARMA, GARCH, and regime models
