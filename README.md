@@ -1,4 +1,4 @@
-# Applied Quantitative Finance & Algorithmic Trading
+# Statistical Finance and Financial Machine Learning for Systematic Trading
 
 A structured four-course learning sequence progressing from foundational statistics and machine learning to advanced financial ML and professional-grade quant research practices.
 
