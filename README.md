@@ -10,9 +10,9 @@ A structured four-course learning sequence progressing from foundational statist
 Build core statistical intuition, basic machine learning understanding, and the ability to code and evaluate simple quantitative trading strategies.
 
 **Primary Texts**
-- *Statistics and Data Analysis for Financial Engineering*  
-- *An Introduction to Statistical Learning (ISLP)*  
-- *Quant Trading Strategies with Python*
+- *Statistics and Data Analysis for Financial Engineering by David Ruppert and David S. Matteson* 
+- *An Introduction to Statistical Learning (ISLP) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani*  
+- *Quantitative Trading Strategies Using Python: Technical Analysis, Statistical Testing, and Machine Learning by Liu Peng*
 
 **Key Topics**
 - Probability, estimation, regression, and inference
