@@ -1,6 +1,6 @@
 # Statistical Finance and Financial Machine Learning for Systematic Trading
 
-A structured four-course learning sequence progressing from foundational statistics and machine learning to advanced financial ML and professional-grade quant research practices.
+A structured 2 year four-course learning sequence progressing from foundational statistics and machine learning to advanced financial ML and professional-grade quant research practices.
 
 ---
 
