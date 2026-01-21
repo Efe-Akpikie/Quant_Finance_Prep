@@ -41,9 +41,9 @@ Students can analyze financial data, implement simple strategies in Python, and 
 Transition from toy strategies to realistic algorithmic trading systems with robust backtesting, execution awareness, and ML-driven workflows.
 
 **Primary Texts**
-- *Successful Algorithmic Trading*  
-- *Advanced Algorithmic Trading*  
-- *Machine Learning for Algorithmic Trading*
+- *Successful Algorithmic Trading by Michael L. Halls-Moore* 
+- *Advanced Algorithmic Trading by Michael L. Halls-Moore*  
+- *Machine Learning for Algorithmic Trading by Stefan Jansen*
 
 **Key Topics**
 - Backtesting bias, transaction costs, and slippage
@@ -72,8 +72,8 @@ Students can design, test, and evaluate algorithmic strategies with realistic as
 Develop a deep understanding of financial time series behavior, volatility dynamics, and portfolio-level risk management.
 
 **Primary Texts**
-- *Analysis of Financial Time Series*  
-- *The Elements of Quantitative Investing*
+- *Analysis of Financial Time Series by Ruey S. Tsay*  
+- *The Elements of Quantitative Investing by Giuseppe A. Paleologo*
 
 **Key Topics**
 - Stationarity, ARMA, GARCH, and regime models
@@ -102,8 +102,8 @@ Students can model asset dynamics, construct portfolios robustly, and manage ris
 Master advanced ML theory and learn research practices that prevent false discoveries in financial ML.
 
 **Primary Texts**
-- *The Elements of Statistical Learning (ESL)*  
-- *Advances in Financial Machine Learning*
+- *The Elements of Statistical Learning (ESL) by by Jerome Friedman, Trevor Hastie and Robert Tibshirani*  
+- *Advances in Financial Machine Learning by by Marcos Lopez de Prado*
 
 **Key Topics**
 - High-dimensional ML and regularization
