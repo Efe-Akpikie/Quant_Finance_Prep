@@ -71,21 +71,26 @@ Ability to **invalidate weak strategies statistically before engineering them**.
 
 ### Course Capstone — Implementation Project
 **Title:**  
-**Production-Grade Backtesting and Trading Engine**
+**High-Performance Event-Driven Backtesting & Execution System**
 
 **Deliverables**
-- Multi-asset event-driven backtester
-- Transaction cost and slippage models
-- Walk-forward performance evaluation
-- Portfolio analytics and diagnostics
+- Multi-asset **event-driven** backtesting and execution engine  
+- Order, fill, and execution simulation with transaction cost & slippage models  
+- Walk-forward and rolling evaluation suitable for ML training and validation  
+- Portfolio-level accounting, attribution, and diagnostics  
+
+**Implementation Constraints**
+- Core engine in **C/C++** for performance and low latency  
+- **Python-first API** for strategy logic and ML model integration  
+- Optimized data flow to support repeated model retraining and evaluation  
 
 **Skill Outcome**
-Understanding **why most backtests fail outside notebooks**.
+Understanding **how execution realism, costs, and system design invalidate naïve ML backtests**.
 
 ---
 
 ## Course 3 — Financial Time Series & Risk-Aware Portfolio Optimization  
-**Duration:** ~6 months
+**Duration:** ~5 months
 
 ### Primary Texts
 - *Analysis of Financial Time Series* — Ruey S. Tsay  
@@ -115,7 +120,7 @@ Transition from **signal-centric thinking to capital allocation and risk control
 ---
 
 ## Course 4 — Market Microstructure, Information, and Limits of Alpha  
-**Duration:** ~4–5 months
+**Duration:** ~5 months
 
 ### Primary Texts
 - *An Introduction to Market Microstructure Theory* — Andreas Krause  
@@ -145,7 +150,7 @@ Ability to **reject strategies on economic grounds before modeling them**.
 ---
 
 ## Course 5 — Financial Machine Learning & Alpha Validation  
-**Duration:** ~6 months
+**Duration:** ~4 months
 
 ### Primary Texts
 - *The Elements of Statistical Learning* — Friedman, Hastie, Tibshirani  
