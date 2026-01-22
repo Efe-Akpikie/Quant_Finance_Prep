@@ -24,12 +24,13 @@ Throughout the program:
 ---
 
 ## Course 1 — Statistical Inference & Predictive Modeling for Financial Data  
-**Duration:** ~5 months
+**Duration:** 5 months
 
 ### Primary Texts
 - *Statistics and Data Analysis for Financial Engineering* — Ruppert & Matteson  
 - *An Introduction to Statistical Learning* — James, Witten, Hastie, Tibshirani  
-- *Quantitative Trading Strategies Using Python* — Liu Peng  
+- *Quantitative Trading Strategies Using Python* — Liu Peng
+- *Successful Algorithmic Trading* — Michael Halls-Moore
 
 ### Scope
 - Probability theory for financial data
@@ -57,10 +58,11 @@ Ability to **invalidate weak strategies statistically before engineering them**.
 ## Course 2 — Algorithmic Trading Systems & Backtesting Under Realistic Constraints  
 **Duration:** ~4 months
 
-### Primary Texts
-- *Successful Algorithmic Trading* — Michael Halls-Moore  
+### Primary Texts  
 - *Advanced Algorithmic Trading* — Michael Halls-Moore  
-- *Machine Learning for Algorithmic Trading* — Stefan Jansen  
+- *Machine Learning for Algorithmic Trading* — Stefan Jansen
+- *An Introduction to Market Microstructure Theory* — Andreas Krause
+- *Building Winning Algorithmic Trading Systems: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading* - Kevin J. Davey
 
 ### Scope
 - Event-driven trading architectures
@@ -95,7 +97,8 @@ Understanding **how execution realism, costs, and system design invalidate naïv
 ### Primary Texts
 - *Analysis of Financial Time Series* — Ruey S. Tsay  
 - *Portfolio Optimization: Theory and Application* — Daniel P. Palomar  
-- *The Elements of Quantitative Investing* — Giuseppe Paleologo  
+- *The Elements of Quantitative Investing* — Giuseppe Paleologo
+- *Financial Markets Theory* — Barucci & Fontana  
 
 ### Scope
 - Time-series dynamics (ARMA, GARCH, regimes)
@@ -119,43 +122,14 @@ Transition from **signal-centric thinking to capital allocation and risk control
 
 ---
 
-## Course 4 — Market Microstructure, Information, and Limits of Alpha  
-**Duration:** ~5 months
-
-### Primary Texts
-- *An Introduction to Market Microstructure Theory* — Andreas Krause  
-- *Financial Markets Theory* — Barucci & Fontana  
-- *Advances in Financial Machine Learning* — Marcos López de Prado  
-
-### Scope
-- Price formation and liquidity
-- Order flow and market impact
-- Market efficiency and equilibrium
-- Structural sources of risk premia
-- Economic limits to predictability
-
-### Course Capstone — Pure Research Paper
-**Title:**  
-**Economic Plausibility and Structural Limits of Algorithmic Trading Signals**
-
-**Deliverables**
-- Theory-driven research paper
-- Microstructure-grounded arguments
-- No performance-driven optimization
-- Clear justification for signal existence or rejection
-
-**Skill Outcome**
-Ability to **reject strategies on economic grounds before modeling them**.
-
----
-
-## Course 5 — Financial Machine Learning & Alpha Validation  
+## Course 4 — Financial Machine Learning & Alpha Validation  
 **Duration:** ~4 months
 
 ### Primary Texts
 - *The Elements of Statistical Learning* — Friedman, Hastie, Tibshirani  
 - *Foundations of Reinforcement Learning with Applications in Finance* — Rao & Jelvis  
-- *Machine Learning in Finance* — Dixon, Halperin, Bilokon  
+- *Machine Learning in Finance* — Dixon, Halperin, Bilokon
+- *Advances in Financial Machine Learning* — Marcos López de Prado   
 
 ### Scope
 - High-dimensional feature spaces
