@@ -1,176 +1,180 @@
 # Statistical Finance & Financial Machine Learning  
-## A Five-Course Professional Quantitative Trading & Research Sequence
+## A Research-First, Implementation-Driven Quantitative Trading Sequence
 
 ---
 
-## Program Overview
+## Program Philosophy
 
-This program is designed as a **serious, professional-grade quant formation track**, not a casual learning path.  
-It progresses deliberately from statistical foundations → system realism → time-series & portfolio theory → market structure → research-grade financial machine learning.
+This five-course sequence is designed to train **professional-grade quantitative researchers and system builders**, not retail traders.
 
-The sequence emphasizes:
-- Statistical rigor over backtest performance
-- Economic plausibility over curve-fitting
-- Research hygiene over model complexity
-- Portfolio and risk realism over single-signal thinking
+The curriculum follows a deliberate progression:
 
-**Total duration:** ~24–27 months  
-**Structure:** 5 core courses + 1 final institutional-grade capstone
+**Statistical validity → system realism → time-series & portfolio theory → market structure → financial machine learning**
+
+Throughout the program:
+- Research discipline is prioritized over backtest performance
+- Economic plausibility precedes model construction
+- Portfolio-level risk dominates single-signal optimization
+- Every result must survive adversarial statistical scrutiny
+
+**Format:** Research + implementation  
+**Duration:** ~24–27 months  
+**Outcome:** Buy-side–ready quant research capability
 
 ---
 
-## Course 1 — Statistical Foundations for Financial Prediction  
-**(Probability, Inference, and Predictive Modeling)**  
+## Course 1 — Statistical Inference & Predictive Modeling for Financial Data  
 **Duration:** ~5 months
 
-### Core Texts
-1. *Statistics and Data Analysis for Financial Engineering* — Ruppert & Matteson  
-2. *An Introduction to Statistical Learning* — James, Witten, Hastie, Tibshirani  
-3. *Quantitative Trading Strategies Using Python* — Liu Peng  
+### Primary Texts
+- *Statistics and Data Analysis for Financial Engineering* — Ruppert & Matteson  
+- *An Introduction to Statistical Learning* — James, Witten, Hastie, Tibshirani  
+- *Quantitative Trading Strategies Using Python* — Liu Peng  
 
-### Focus
-- Probability theory and estimation
-- Regression, classification, and validation
-- Bias–variance tradeoff
-- Statistical testing in financial contexts
-- Why most “signals” fail under scrutiny
+### Scope
+- Probability theory for financial data
+- Estimation, inference, and uncertainty
+- Linear and nonlinear predictive models
+- Bias–variance tradeoff in noisy markets
+- Hypothesis testing under data-snooping risk
 
-### Capstone — Research Mini-Paper
-**Title:** *Statistical Validity of Simple Trading Signals*
+### Course Capstone — Research Paper
+**Title:**  
+**Statistical Validity of Simple Trading Signals**
 
-**Deliverable**
-- 8–12 page research-style paper
-- Formal hypothesis
-- Data-snooping and overfitting analysis
+**Deliverables**
+- 8–12 page research paper
+- Explicit hypotheses and null models
+- Multiple-testing and overfitting analysis
 - Statistical vs economic significance
-- Fully reproducible appendix
+- Reproducible code appendix
 
-**Outcome**
-Ability to **disprove bad strategies quantitatively** before wasting engineering effort.
+**Skill Outcome**
+Ability to **invalidate weak strategies statistically before engineering them**.
 
 ---
 
-## Course 2 — Algorithmic Trading Infrastructure & Backtesting Reality  
-**(Execution, Costs, and System Design)**  
+## Course 2 — Algorithmic Trading Systems & Backtesting Under Realistic Constraints  
 **Duration:** ~4 months
 
-### Core Texts
-1. *Successful Algorithmic Trading* — Michael Halls-Moore  
-2. *Advanced Algorithmic Trading* — Michael Halls-Moore  
-3. *Machine Learning for Algorithmic Trading* — Stefan Jansen  
+### Primary Texts
+- *Successful Algorithmic Trading* — Michael Halls-Moore  
+- *Advanced Algorithmic Trading* — Michael Halls-Moore  
+- *Machine Learning for Algorithmic Trading* — Stefan Jansen  
 
-### Focus
-- Event-driven trading systems
-- Backtesting bias and leakage
-- Slippage and transaction costs
-- Walk-forward evaluation
-- Portfolio-level accounting
+### Scope
+- Event-driven trading architectures
+- Look-ahead bias and data leakage
+- Slippage, spreads, and market impact
+- Walk-forward and rolling evaluation
+- Portfolio-level accounting and PnL attribution
 
-### Capstone — System Build
-**Title:** *Production-Grade Backtesting & Trading System*
+### Course Capstone — Implementation Project
+**Title:**  
+**Production-Grade Backtesting and Trading Engine**
 
-**Deliverable**
-- Multi-asset trading pipeline
-- Transaction cost modeling
-- Walk-forward backtests
-- Portfolio attribution analysis
+**Deliverables**
+- Multi-asset event-driven backtester
+- Transaction cost and slippage models
+- Walk-forward performance evaluation
+- Portfolio analytics and diagnostics
 
-**Outcome**
-Understanding **why most academic and retail backtests are unusable in production**.
+**Skill Outcome**
+Understanding **why most backtests fail outside notebooks**.
 
 ---
 
-## Course 3 — Financial Time Series & Risk-Aware Portfolio Construction  
-**(Dynamics, Volatility, and Allocation Under Uncertainty)**  
+## Course 3 — Financial Time Series & Risk-Aware Portfolio Optimization  
 **Duration:** ~6 months
 
-### Core Texts
-1. *Analysis of Financial Time Series* — Ruey S. Tsay  
-2. *Portfolio Optimization: Theory and Application* — Daniel P. Palomar  
-3. *The Elements of Quantitative Investing* — Giuseppe Paleologo  
+### Primary Texts
+- *Analysis of Financial Time Series* — Ruey S. Tsay  
+- *Portfolio Optimization: Theory and Application* — Daniel P. Palomar  
+- *The Elements of Quantitative Investing* — Giuseppe Paleologo  
 
-### Focus
-- ARMA, GARCH, regime models
-- Volatility forecasting
+### Scope
+- Time-series dynamics (ARMA, GARCH, regimes)
+- Volatility forecasting and clustering
 - Estimation error and turnover
 - Constrained portfolio optimization
-- Tail risk and drawdowns
+- Drawdowns, tail risk, and stress testing
 
-### Capstone — Research + Implementation
-**Title:** *Volatility-Aware Portfolio Optimization Under Estimation Error*
+### Course Capstone — Research + Implementation
+**Title:**  
+**Volatility-Aware Portfolio Construction Under Estimation Error**
 
 **Deliverables**
 - 12–15 page research paper
-- Time-series volatility modeling
-- Constraint-aware optimization
-- Stress tests and benchmark comparisons
+- Time-series volatility models
+- Constraint-aware optimization engine
+- Stress tests vs classical benchmarks
 
-**Outcome**
-Shift from signal-centric thinking to **capital allocation and risk control**.
+**Skill Outcome**
+Transition from **signal-centric thinking to capital allocation and risk control**.
 
 ---
 
-## Course 4 — Market Structure, Information, and Signal Limits  
-**(Microstructure, Efficiency, and Economic Constraints)**  
+## Course 4 — Market Microstructure, Information, and Limits of Alpha  
 **Duration:** ~4–5 months
 
-### Core Texts
-1. *An Introduction to Market Microstructure Theory* — Andreas Krause  
-2. *Financial Markets Theory: Equilibrium, Efficiency and Information* — Barucci & Fontana  
-3. *Advances in Financial Machine Learning* — Marcos López de Prado 
+### Primary Texts
+- *An Introduction to Market Microstructure Theory* — Andreas Krause  
+- *Financial Markets Theory* — Barucci & Fontana  
+- *Advances in Financial Machine Learning* — Marcos López de Prado  
 
-### Focus
-- Price formation mechanisms
-- Liquidity and order flow
-- Market efficiency limits
-- Risk premia and equilibrium arguments
-- Structural reasons signals may or may not exist
+### Scope
+- Price formation and liquidity
+- Order flow and market impact
+- Market efficiency and equilibrium
+- Structural sources of risk premia
+- Economic limits to predictability
 
-### Capstone — Pure Research Paper
-**Title:** *Economic Plausibility of Algorithmic Trading Signals*
+### Course Capstone — Pure Research Paper
+**Title:**  
+**Economic Plausibility and Structural Limits of Algorithmic Trading Signals**
 
-**Deliverable**
+**Deliverables**
 - Theory-driven research paper
-- No performance heroics
-- Microstructure and equilibrium grounding
-- Clear argument for or against signal existence
+- Microstructure-grounded arguments
+- No performance-driven optimization
+- Clear justification for signal existence or rejection
 
-**Outcome**
+**Skill Outcome**
 Ability to **reject strategies on economic grounds before modeling them**.
 
 ---
 
-## Course 5 — Financial Machine Learning & Research Hygiene  
-**(High-Dimensional ML, Overfitting Control, and Alpha Validation)**  
+## Course 5 — Financial Machine Learning & Alpha Validation  
 **Duration:** ~6 months
 
-### Core Texts
-1. *The Elements of Statistical Learning* — Friedman, Hastie, Tibshirani  
-2. *Foundations of Reinforcement Learning with Applications in Finance* — Ashwin Rao, Tikhon Jelvis  
-3. *Machine Learning in Finance: From Theory to Practice* — Halperin, Dixon, Bilokon  
+### Primary Texts
+- *The Elements of Statistical Learning* — Friedman, Hastie, Tibshirani  
+- *Foundations of Reinforcement Learning with Applications in Finance* — Rao & Jelvis  
+- *Machine Learning in Finance* — Dixon, Halperin, Bilokon  
 
-### Focus
-- High-dimensional ML
-- Regularization and ensembles
-- Financial labeling & meta-labeling
+### Scope
+- High-dimensional feature spaces
+- Regularization and ensemble methods
+- Financial labeling and meta-labeling
 - Purged and embargoed cross-validation
-- Multiple-testing correction
+- Multiple-testing correction and robustness
 
-### Capstone — Research-Grade Study
-**Title:** *Robust Alpha Discovery Under Multiple-Testing Constraints*
+### Course Capstone — Research-Grade Study
+**Title:**  
+**Robust Alpha Discovery Under Multiple-Testing Constraints**
 
 **Deliverables**
 - 15–20 page research paper
-- Hypothesis-driven feature design
-- Purged CV and robustness testing
-- Explicit failure analysis
+- Hypothesis-driven feature engineering
+- Purged CV and out-of-sample validation
+- Explicit failure and fragility analysis
 
-**Outcome**
-Capability to conduct **professional quant research without fooling yourself**.
+**Skill Outcome**
+Capacity to perform **professional-grade ML research without self-deception**.
 
 ---
 
-## Final Program Capstone — Institutional-Grade Quant Research  
+## Final Program Capstone — Institutional-Grade Quant Research & System Build  
 **Duration:** ~3 months
 
 ### Title
@@ -178,26 +182,26 @@ Capability to conduct **professional quant research without fooling yourself**.
 
 ### Required Integration
 - Economic rationale (Course 4)
-- Statistical validation (Course 1)
-- Infrastructure realism (Course 2)
+- Statistical rigor (Course 1)
+- System realism (Course 2)
 - Portfolio & risk modeling (Course 3)
-- ML hygiene (Course 5)
+- Machine learning hygiene (Course 5)
 
 ### Deliverables
-- 20–30 page research paper (buy-side quality)
-- Fully reproducible codebase
-- Explicit post-mortem: why the strategy may still fail
+- 20–30 page buy-side-quality research paper
+- Fully reproducible research + trading codebase
+- Detailed post-mortem explaining why the strategy may fail
 
-### Completion Signal
+### Completion Standard
 Graduates are aligned with:
-- Buy-side quant research standards
-- Prop-trading system design expectations
-- Institutional risk and governance thinking
+- Buy-side quant research expectations
+- Prop-trading system design standards
+- Institutional risk and governance discipline
 
 ---
 
 ## Final Note
 
-This curriculum is intentionally demanding.  
-Its purpose is not to **teach trading**, but to teach **how to think like a professional quantitative researcher** who understands why most strategies fail before they ever trade.
+This program is intentionally demanding.
 
+Its purpose is not to teach **how to trade**, but to teach **how to think like a quantitative researcher who understands why most strategies fail before capital is ever deployed**.
