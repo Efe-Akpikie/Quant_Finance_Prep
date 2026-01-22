@@ -56,7 +56,7 @@ Ability to **invalidate weak strategies statistically before engineering them**.
 ---
 
 ## Course 2 — Algorithmic Trading Systems & Backtesting Under Realistic Constraints  
-**Duration:** ~4 months
+**Duration:** ~5 months
 
 ### Primary Texts  
 - *Advanced Algorithmic Trading* — Michael Halls-Moore  
@@ -92,7 +92,7 @@ Understanding **how execution realism, costs, and system design invalidate naïv
 ---
 
 ## Course 3 — Financial Time Series & Risk-Aware Portfolio Optimization  
-**Duration:** ~5 months
+**Duration:** ~6 months
 
 ### Primary Texts
 - *Analysis of Financial Time Series* — Ruey S. Tsay  
@@ -123,7 +123,7 @@ Transition from **signal-centric thinking to capital allocation and risk control
 ---
 
 ## Course 4 — Financial Machine Learning & Alpha Validation  
-**Duration:** ~4 months
+**Duration:** ~5 months
 
 ### Primary Texts
 - *The Elements of Statistical Learning* — Friedman, Hastie, Tibshirani  
