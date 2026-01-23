@@ -55,13 +55,12 @@ Throughout the program:
 - Cross-validation with financial time series considerations
 - Reproducible code appendix
 
-**Skill Outcome**
-Ability to **rigorously validate predictive models and detect overfitting before capital deployment**.
+**Skill Outcome**: Ability to **rigorously validate predictive models and detect overfitting before capital deployment**.
 
 ---
 
 ## Course 2 – Event-Driven Systems & Production Trading Infrastructure  
-**Duration:** ~5 months
+**Duration:** ~4 months
 
 ### Primary Texts  
 - *Advanced Algorithmic Trading* – Michael Halls-Moore  
@@ -96,13 +95,12 @@ Ability to **rigorously validate predictive models and detect overfitting before
 - Support for streaming data and model updates  
 - Proper handling of corporate actions and splits  
 
-**Skill Outcome**
-Understanding **how system design, execution costs, and lookahead bias invalidate naïve backtests**.
+**Skill Outcome**: Understanding **how system design, execution costs, and lookahead bias invalidate naïve backtests**.
 
 ---
 
 ## Course 3 – Financial Econometrics & Time Series Modeling  
-**Duration:** ~6 months
+**Duration:** ~7 months
 
 ### Primary Texts
 - *Analysis of Financial Time Series* – Ruey S. Tsay  
@@ -131,8 +129,7 @@ Understanding **how system design, execution costs, and lookahead bias invalidat
 - Rolling window backtests with transaction costs
 - Performance attribution and stress testing
 
-**Skill Outcome**
-Master **time-series econometrics and portfolio construction under realistic constraints and estimation uncertainty**.
+**Skill Outcome**: Master **time-series econometrics and portfolio construction under realistic constraints and estimation uncertainty**.
 
 ---
 
@@ -172,8 +169,7 @@ Master **time-series econometrics and portfolio construction under realistic con
 - Detailed failure mode and fragility analysis
 - Walk-forward validation on out-of-sample data
 
-**Skill Outcome**
-Capacity to perform **institutional-grade ML research with proper controls against overfitting and false discoveries**.
+**Skill Outcome**: Capacity to perform **institutional-grade ML research with proper controls against overfitting and false discoveries**.
 
 ---
 
