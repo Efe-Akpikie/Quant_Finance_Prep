@@ -62,7 +62,7 @@ Ability to **invalidate weak strategies statistically before engineering them**.
 - *Advanced Algorithmic Trading* — Michael Halls-Moore  
 - *Machine Learning for Algorithmic Trading* — Stefan Jansen
 - *An Introduction to Market Microstructure Theory* — Andreas Krause
-- *Building Winning Algorithmic Trading Systems: A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading* - Kevin J. Davey
+- *need to find a book*
 
 ### Scope
 - Event-driven trading architectures
