@@ -65,6 +65,7 @@ Ability to **rigorously validate predictive models and detect overfitting before
 - *Advanced Algorithmic Trading* – Michael Halls-Moore  
 - *Machine Learning for Algorithmic Trading* – Stefan Jansen
 - *An Introduction to Market Microstructure Theory* – Andreas Krause
+- *Testing and Tuning Market Trading Systems: Algorithms in C++* - Timothy Masters
 
 ### Scope
 - Market microstructure and order flow dynamics
