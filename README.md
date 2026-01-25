@@ -69,7 +69,9 @@ Build an event-driven backtesting and execution simulator that models realistic 
 - *Analysis of Financial Time Series* — Ruey S. Tsay  
 - *Portfolio Optimization: Theory and Application* — Daniel P. Palomar  
 - *The Elements of Quantitative Investing* — Giuseppe Paleologo
-- *A Practical Guide To Quantitative Finance Interviews* — Xinfeng Zhou — for Interview prep
+- *Portfolio Management in Continuous Time* — Palgrave MacMillan
+
+<!-- Portfolio Management in Continuous Time will be released March 2026, if I can read it using my university student priviledges it'll be in this course-->
 
 **Focus**
 - Time-series modeling (ARIMA, GARCH, regime behavior)  
@@ -97,7 +99,7 @@ Develop a portfolio construction framework that incorporates volatility forecast
 - *Machine Learning in Finance* — Dixon, Halperin, Bilokon  
 - *Machine Learning for Algorithmic Trading* — Stefan Jansen  
 - *Advances in Financial Machine Learning* — Marcos López de Prado
-- *Quant Job Interview Questions and Answers* — Mark Joshi — for Interview prep
+- *Advanced Portfolio Management* — Giuseppe Paleologo
 
 **Focus**
 - Financial data structures and labeling methods  
