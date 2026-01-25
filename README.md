@@ -40,8 +40,7 @@ Design, test, and statistically validate a set of predictive signals (e.g., mome
 **Primary Texts**
 - *Advanced Algorithmic Trading* — Michael Halls-Moore  
 - *An Introduction to Market Microstructure Theory* — Andreas Krause  
-- *Testing and Tuning Market Trading Systems: Algorithms in C++* — Timothy Masters  
-- *Optimization Methods in Finance* — Gerard Cornuejols  
+- *Testing and Tuning Market Trading Systems: Algorithms in C++* — Timothy Masters    
 
 **Focus**
 - Market microstructure and price formation  
@@ -69,7 +68,6 @@ Build an event-driven backtesting and execution simulator that models realistic 
 - *Analysis of Financial Time Series* — Ruey S. Tsay  
 - *Portfolio Optimization: Theory and Application* — Daniel P. Palomar  
 - *The Elements of Quantitative Investing* — Giuseppe Paleologo
-- *Portfolio Management in Continuous Time* — Palgrave MacMillan
 
 <!-- Portfolio Management in Continuous Time will be released March 2026, if I can read it using my university student priviledges it'll be in this course-->
 
